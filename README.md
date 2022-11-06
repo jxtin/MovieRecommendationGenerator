@@ -3,8 +3,7 @@
 
 ## Deployed on discord as a bot 
 
-### Enter the exact title of a given movie, and you will be recommended movies according to each movies' overview, popularity and rating 
-
+### Enter the exact title of the input movie and you will be recommended other movies according to the respective movie's overview, popularity and rating 
 
 
  Preprocesssing of data is linked: [here](https://github.com/jxtin/MovieRecommendationGenerator/blob/master/Movie%20Recommendation/preprocessing.py) 
