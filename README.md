@@ -7,10 +7,10 @@
 
 
 
- Preprocesssing of data [here](https://github.com/jxtin/MovieRecommendationGenerator/blob/master/Movie%20Recommendation/preprocessing.py) 
+ Preprocesssing of data is linked: [here](https://github.com/jxtin/MovieRecommendationGenerator/blob/master/Movie%20Recommendation/preprocessing.py) 
 
 
-The TF-IDF approach for 'overview' column and final recommendation functions [here](https://github.com/jxtin/MovieRecommendationGenerator/blob/master/Movie%20Recommendation/overview_recommend.py) 
+The TF-IDF approach for 'overview' column and final recommendation functions is linked here: [here](https://github.com/jxtin/MovieRecommendationGenerator/blob/master/Movie%20Recommendation/overview_recommend.py) 
 
 
 The [KNN folder](https://github.com/jxtin/MovieRecommendationGenerator/tree/master/KNN) contains code which uses cosine similarity to find distance between two moving using the common genres, cast or keywords indexed and converted to zeros and ones as parameters, it finds the distance of movie with every other movie in datasets and then responds with k (6) nearest neighbors hence the name, K Nearest neighbors. 
