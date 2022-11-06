@@ -21,7 +21,7 @@ The [KNN folder](https://github.com/jxtin/MovieRecommendationGenerator/tree/mast
 ![2021-09-19-14-33-26](https://user-images.githubusercontent.com/72869428/133921782-380e812a-43c7-400e-9bfb-0516b33cd490.gif)
 
 
-### _Download the dataset from [this site](https://www.kaggle.com/tmdb/tmdb-movie-metadata)_ 
+### _Download the dataset from: [this site](https://www.kaggle.com/tmdb/tmdb-movie-metadata)_ 
 
 ### The preprocessed dataset generated for the KNN portion of code is linked: [here](https://drive.google.com/drive/folders/1LrAAu-QAjaJ7GGpEvBnMhvOWjvFt6ugm?usp=sharing) 
 
