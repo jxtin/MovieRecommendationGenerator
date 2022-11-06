@@ -24,3 +24,7 @@ The [KNN folder](https://github.com/jxtin/MovieRecommendationGenerator/tree/mast
 
 ### The preprocessed dataset generated for the KNN portion of code is linked: [here](https://drive.google.com/drive/folders/1LrAAu-QAjaJ7GGpEvBnMhvOWjvFt6ugm?usp=sharing) 
 
+[@Rushour0]((https://github.com/Rushour0)
+[@jxtin](https://github.com/jxtin)
+[@MuskanO1](https://github.com/MuskanO1)
+
