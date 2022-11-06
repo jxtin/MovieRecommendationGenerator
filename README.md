@@ -1,7 +1,7 @@
-# Movie_Recommendation_Discord_Bot 
+# Movie Recommendation System
 
 
-## Movie Recommendation Discord Bot 
+## Deployed on discord as a bot 
 
 ### Enter the exact title of a given movie, and you will be recommended movies according to each movies' overview, popularity and rating 
 
