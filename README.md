@@ -13,7 +13,7 @@
 The TF-IDF approach for 'overview' column and final recommendation functions is linked here: [here](https://github.com/jxtin/MovieRecommendationGenerator/blob/master/Movie%20Recommendation/overview_recommend.py) 
 
 
-The [KNN folder](https://github.com/jxtin/MovieRecommendationGenerator/tree/master/KNN) contains code which uses cosine similarity to find distance between two moving using the common genres, cast or keywords indexed and converted to zeros and ones as parameters, it finds the distance of movie with every other movie in datasets and then responds with k (6) nearest neighbors hence the name, K Nearest neighbors. 
+The [KNN folder](https://github.com/jxtin/MovieRecommendationGenerator/tree/master/KNN) contains code which uses cosine similarity to find distance between two movies using their common genres, cast or keywords indexed and converted to zeros and ones as parameters. It then finds the distance of the entered movie with every other movie in the concerned datasets to respond with k (6) nearest neighbors: hence the name, K Nearest neighbors. 
 
 
 ### Working of the Recommendation model
@@ -23,5 +23,5 @@ The [KNN folder](https://github.com/jxtin/MovieRecommendationGenerator/tree/mast
 
 ### _Download the dataset from [this site](https://www.kaggle.com/tmdb/tmdb-movie-metadata)_ 
 
-### The preprocessed dataset generated for the KNN portion of code can be found [here](https://drive.google.com/drive/folders/1LrAAu-QAjaJ7GGpEvBnMhvOWjvFt6ugm?usp=sharing) 
+### The preprocessed dataset generated for the KNN portion of code is linked: [here](https://drive.google.com/drive/folders/1LrAAu-QAjaJ7GGpEvBnMhvOWjvFt6ugm?usp=sharing) 
 
