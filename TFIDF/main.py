@@ -2,6 +2,8 @@ import os
 import overview_recommend
 from discord.ext import commands
 
+print("This is the main file for TF-IDF generation")
+
 bot = commands.Bot(
     command_prefix="!",  # Change to desired prefix
     case_insensitive=True  # Commands aren't case-sensitive
